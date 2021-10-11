@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mouhamadfneish
+- 👀 I’m interested in java (spring and liferay), PHP (core and laravel), Python (core and Django), Android
+- 🌱 I’m currently learning java liferay
+- 💞️ I’m looking to collaborate on anything related to programming
+- 📫 How to reach me mohammadfneish@gmail.com
